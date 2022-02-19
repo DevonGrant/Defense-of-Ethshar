@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TowerDefense",
+    "\\TowerDefense\\Library",
+    "\\TowerDefense\\Library\\Artifacts\\00",
+    "\\TowerDefense\\Library\\PackageCache\\com.unity.timeline@1.2.16",
+    "\\TowerDefense\\Library\\PackageCache\\com.unity.timeline@1.2.16\\Editor",
+    "\\TowerDefense\\Library\\PackageCache\\com.unity.timeline@1.2.16\\Editor\\StyleSheets",
+    "\\TowerDefense\\Library\\PackageCache\\com.unity.timeline@1.2.16\\Editor\\StyleSheets\\Extensions",
+    "\\TowerDefense\\Library\\TempArtifacts\\Extra",
+    "\\TowerDefense\\Library\\TempArtifacts\\Primary"
   ],
+  "SelectedNode": "\\TowerDefense",
   "PreviewInSolutionExplorer": false
 }
